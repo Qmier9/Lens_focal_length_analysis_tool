@@ -21,7 +21,8 @@
 pip install -r requirements.txt
 ```
 
-##🚀 运行
+
+## 🚀 运行
 ```bash
 python photo_meta_ui.py
 ```
@@ -31,4 +32,10 @@ python photo_meta_ui.py
 
 输出截图
 <img width="1200" height="675" alt="hist" src="https://github.com/user-attachments/assets/ff8da57e-dff9-4c02-a401-539187d41257" />
+
+
+## 🔐 隐私
+本工具本地读取照片 EXIF，仅用于统计；不会上传你的图片或 EXIF 信息。
+
+
 
